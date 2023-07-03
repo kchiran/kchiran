@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building exciting products.
 - 🌱 I’m currently learning Ruby on Rails.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about product development and software engineering.
 - 📫 How to reach me: https://www.twitter.com/chiran_kandel
